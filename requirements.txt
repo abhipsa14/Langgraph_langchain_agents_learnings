@@ -9,3 +9,4 @@ arxiv
 pymupdf
 wikipedia
 langchain_text_splitters
+chromadb
